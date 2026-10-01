@@ -1,16 +1,36 @@
-## Hi there 👋
+# EvolveSkill
 
-<!--
-**evolveskill4/evolveskill4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+EvolveSkill is an online learning resource focused on IT certification
+preparation, professional learning, and technology education.
 
-Here are some ideas to get you started:
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- IT Certifications
+- Exam Preparation
+- Cloud Computing
+- Cybersecurity
+- Networking
+- Professional Development
+- Online Learning
+
+## Featured Resource
+
+Explore our practical guide for planning and preparing for IT
+certification exams:
+
+[IT Certification Study Resources](https://github.com/evolveskill4/it-certification-study-resources)
+
+## Website
+For additional IT certification learning resources:
+
+[Visit EvolveSkill](https://evolveskill4.com/)
+
+## About
+
+This profile shares educational resources and practical guidance
+for learners and professionals interested in IT certifications
+and technology-related career development.
+
+This profile shares educational resources and practical guidance
+for learners and professionals interested in IT certifications
+and technology-related career development.
