@@ -27,6 +27,6 @@ For additional IT certification learning resources:
 
 ## About
 
-This profile shares educational resources and practical guidance
+EvolveSkill shares educational resources and practical guidance
 for learners and professionals interested in IT certifications
 and technology-related career development.
