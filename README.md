@@ -30,7 +30,3 @@ For additional IT certification learning resources:
 This profile shares educational resources and practical guidance
 for learners and professionals interested in IT certifications
 and technology-related career development.
-
-This profile shares educational resources and practical guidance
-for learners and professionals interested in IT certifications
-and technology-related career development.
