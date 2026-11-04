@@ -1,32 +1,34 @@
-# EvolveSkill
+<div align="center">
 
-EvolveSkill is an online learning resource focused on IT certification
-preparation, professional learning, and technology education.
+# Hi there, Welcome to EvolveSkill 👋
 
-## Areas of Interest
+<img src="https://github.com/user-attachments/assets/6adffefb-8706-47d5-a523-39fd1fddb7f8" width="100%" alt="EvolveSkill" />
 
-- IT Certifications
-- Exam Preparation
-- Cloud Computing
-- Cybersecurity
-- Networking
-- Professional Development
-- Online Learning
+### Technical Content Writer | IT Certification Roadmaps & Cloud Architecture
 
-## Featured Resource
+[![Website](https://img.shields.io/badge/Website-evolveskill4.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://evolveskill4.com)
+[![Substack](https://img.shields.io/badge/Substack-Articles-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@evolveskill4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/evolveskill/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://in.pinterest.com/evolveskill4/)
 
-Explore our practical guide for planning and preparing for IT
-certification exams:
+---
 
-[IT Certification Study Resources](https://github.com/evolveskill4/it-certification-study-resources)
+### 🚀 What I Do
+I write systems-engineer-level study blueprints, hands-on lab exercises, and practical guides to help IT professionals validate skills and pass industry certifications.
 
-## Website
-For additional IT certification learning resources:
+</div>
 
-[Visit EvolveSkill](https://evolveskill4.com/)
+### 📌 Core Certification Blueprints & Domains Covered
 
-## About
+- ☁️ **AWS (Amazon Web Services):** Solutions Architect Associate (SAA-C03), Security – Specialty (SCS-C03), SysOps Administrator (SOA-C03)
+- 🏢 **Microsoft Azure:** Azure Administrator Associate (AZ-104), Cloud Governance & Entra ID Security
+- 🛡️ **CompTIA Security & Infrastructure:** Security+ (SY0-701), Network+ (N10-009), PenTest+ (PT0-003), CySA+ (CS0-003)
 
-EvolveSkill shares educational resources and practical guidance
-for learners and professionals interested in IT certifications
-and technology-related career development.
+---
+
+<div align="center">
+
+### 📬 Connect & Learn
+For practical exam preparation tips, voucher updates, and detailed cloud scenarios, follow our newsletter on [Substack](https://substack.com/@evolveskill4) and visual infographics on [Pinterest](https://in.pinterest.com/evolveskill4/).
+
+</div>
