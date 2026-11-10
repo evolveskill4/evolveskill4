@@ -43,12 +43,13 @@ I write systems-engineer-level study blueprints, hands-on lab exercises, and pra
 
 </div>
 
-### 📌 Core Certification Blueprints & Domains Covered
+### 📌 Core Certification Blueprints & Repositories
 
-- ☁️ **AWS (Amazon Web Services):** Solutions Architect Associate (SAA-C03), Security – Specialty (SCS-C03), SysOps Administrator (SOA-C03)
-- 🏢 **Microsoft Azure:** Azure Administrator Associate (AZ-104), Cloud Governance & Entra ID Security
-- 🛡️ **CompTIA Security & Infrastructure:** Security+ (SY0-701), Network+ (N10-009), PenTest+ (PT0-003), CySA+ (CS0-003)
+- ☁️ **[AWS Security (SCS-C03) Blueprint](https://github.com/evolveskill4/aws-security-scs-c03-blueprint)**: Specialty blueprint, threat detection runbooks, and hands-on lab architectures.
+- 🩵 **[Azure Administrator (AZ-104) Guide](https://github.com/evolveskill4/azure-az104-study-guide)**: Complete study blueprint, governance, Entra ID, and domain notes.
 - 🛡️ **[CompTIA Security+ (SY0-701) Notes](https://github.com/evolveskill4/comptia-security-sy0-701-prep-notes)**: Complete study blueprint, domain weightings, and preparation strategy.
+- 🌐 **[Cloud Architecture Docs](https://github.com/evolveskill4/cloud-architecture-docs)**: Enterprise cloud networking runbooks, multi-cloud architecture blueprints, and roadmaps.
+- 📚 **[IT Certification Study Resources](https://github.com/evolveskill4/it-certification-study-resources)**: Practical study resources and guidance for IT certification exams.
 
 ---
 
