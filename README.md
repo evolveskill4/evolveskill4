@@ -48,6 +48,7 @@ I write systems-engineer-level study blueprints, hands-on lab exercises, and pra
 - ☁️ **AWS (Amazon Web Services):** Solutions Architect Associate (SAA-C03), Security – Specialty (SCS-C03), SysOps Administrator (SOA-C03)
 - 🏢 **Microsoft Azure:** Azure Administrator Associate (AZ-104), Cloud Governance & Entra ID Security
 - 🛡️ **CompTIA Security & Infrastructure:** Security+ (SY0-701), Network+ (N10-009), PenTest+ (PT0-003), CySA+ (CS0-003)
+- 🛡️ **[CompTIA Security+ (SY0-701) Notes](https://github.com/evolveskill4/comptia-security-sy0-701-prep-notes)**: Complete study blueprint, domain weightings, and preparation strategy.
 
 ---
 
