@@ -35,6 +35,8 @@
   <a href="https://in.pinterest.com/evolveskill4/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-Visuals-BD081C?style=flat-square&logo=pinterest&logoColor=white" height="28" style="vertical-align: middle;" />
   </a>
+[![Jimdo Hub](https://img.shields.io/badge/Resource_Hub-Jimdo-0052CC?style=flat&logo=jimdo&logoColor=white)](https://evolveskill.jimdosite.com/)
+[![CodePen](https://img.shields.io/badge/Interactive_Guide-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/evolveskill4)
 </p>
 
 ---
