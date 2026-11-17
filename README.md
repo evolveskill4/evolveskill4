@@ -7,6 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=evolveskill4&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/evolveskill4?label=Followers&logo=github&style=flat&color=55a532" alt="Followers" />
   <img src="https://img.shields.io/github/stars/evolveskill4?label=Total%20Stars&logo=github&style=flat&color=dfb317" alt="Total Stars" />
+  
 </p>
 
 <img src="https://github.com/user-attachments/assets/6adffefb-8706-47d5-a523-39fd1fddb7f8" width="100%" alt="EvolveSkill" />
@@ -50,8 +51,6 @@ I write systems-engineer-level study blueprints, hands-on lab exercises, and pra
 - 🛡️ **[CompTIA Security+ (SY0-701) Notes](https://github.com/evolveskill4/comptia-security-sy0-701-prep-notes)**: Complete study blueprint, domain weightings, and preparation strategy.
 - 🌐 **[Cloud Architecture Docs](https://github.com/evolveskill4/cloud-architecture-docs)**: Enterprise cloud networking runbooks, multi-cloud architecture blueprints, and roadmaps.
 - 📚 **[IT Certification Study Resources](https://github.com/evolveskill4/it-certification-study-resources)**: Practical study resources and guidance for IT certification exams.
-- [![Jimdo Hub](https://img.shields.io/badge/Resource_Hub-Jimdo-0052CC?style=flat&logo=jimdo&logoColor=white)](https://evolveskill.jimdosite.com/)
-[![CodePen](https://img.shields.io/badge/Interactive_Guide-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/evolveskill4)
 
 ---
 
