@@ -51,6 +51,16 @@
   <a href="https://6afacdfc993d4.site123.me/" target="_blank">
     <img src="https://img.shields.io/badge/Site123-Exam_Portal-047857?style=flat-square&logo=googlechrome&logoColor=white" height="28" style="vertical-align: middle;" />
   </a>
+<br /><br />
+  <a href="https://www.instagram.com/evolveskill4" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Updates-E4405F?style=flat-square&logo=instagram&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.reddit.com/user/evolveskill4/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-Community-FF4500?style=flat-square&logo=reddit&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://www.behance.net/evolveskill4" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-Visual_Guides-1769FF?style=flat-square&logo=behance&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
 </p>
 
 ---
