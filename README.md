@@ -50,6 +50,8 @@ I write systems-engineer-level study blueprints, hands-on lab exercises, and pra
 - 🛡️ **[CompTIA Security+ (SY0-701) Notes](https://github.com/evolveskill4/comptia-security-sy0-701-prep-notes)**: Complete study blueprint, domain weightings, and preparation strategy.
 - 🌐 **[Cloud Architecture Docs](https://github.com/evolveskill4/cloud-architecture-docs)**: Enterprise cloud networking runbooks, multi-cloud architecture blueprints, and roadmaps.
 - 📚 **[IT Certification Study Resources](https://github.com/evolveskill4/it-certification-study-resources)**: Practical study resources and guidance for IT certification exams.
+- [![Jimdo Hub](https://img.shields.io/badge/Resource_Hub-Jimdo-0052CC?style=flat&logo=jimdo&logoColor=white)](https://evolveskill.jimdosite.com/)
+[![CodePen](https://img.shields.io/badge/Interactive_Guide-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/evolveskill4)
 
 ---
 
