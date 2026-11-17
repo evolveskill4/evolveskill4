@@ -35,8 +35,22 @@
   <a href="https://in.pinterest.com/evolveskill4/" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-Visuals-BD081C?style=flat-square&logo=pinterest&logoColor=white" height="28" style="vertical-align: middle;" />
   </a>
-[![Jimdo Hub](https://img.shields.io/badge/Resource_Hub-Jimdo-0052CC?style=flat&logo=jimdo&logoColor=white)](https://evolveskill.jimdosite.com/)
-[![CodePen](https://img.shields.io/badge/Interactive_Guide-CodePen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/evolveskill4)
+<br /><br />
+  <a href="https://evolveskill.jimdosite.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Jimdo-Resource_Hub-0F4C81?style=flat-square&logo=gitbook&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://codepen.io/evolveskill4" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-Showcase-111827?style=flat-square&logo=codepen&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://dribbble.com/evolveskill" target="_blank">
+    <img src="https://img.shields.io/badge/Dribbble-Portfolio-EA4C89?style=flat-square&logo=dribbble&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://evolveskill.mystrikingly.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Strikingly-Study_Hub-5B21B6?style=flat-square&logo=readthedocs&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
+  <a href="https://6afacdfc993d4.site123.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Site123-Exam_Portal-047857?style=flat-square&logo=googlechrome&logoColor=white" height="28" style="vertical-align: middle;" />
+  </a>
 </p>
 
 ---
